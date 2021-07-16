@@ -211,3 +211,8 @@ body{
     width: 100%;
     border-radius: 50%;
 }
+
+.hlink{
+    text-decoration: none;
+    color: inherit;
+}
