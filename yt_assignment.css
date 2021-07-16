@@ -1,0 +1,213 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+.bodyContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #f4f4f4;
+}
+
+.columnContainer{
+    width: 350px;
+    margin:20px;
+}
+
+.box{
+    
+    border-radius: 5px;
+    padding:20px;
+    background-color: white;
+}
+
+.boxTitle{
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+/* Latest Video Performance*/
+.imageContainer{
+    height: 170px;
+    overflow: hidden;
+    border-radius: 3px;
+}
+
+.thumbnail{
+    width:100%;
+    margin-top:-30px;
+}
+
+.performanceDiv{
+    margin: 20px 0 10px;
+}
+
+.op{
+    opacity: 0.6;
+}
+
+.engagementContainer{
+    margin-bottom: 10px;
+}
+
+.engagement{
+    display: flex;
+    justify-content: space-between;
+    padding: 7px 0;
+    
+}
+
+.fs{
+    font-size: 13px;
+}
+
+.link{
+    color: #1C5FD4;
+}
+
+.comment{
+    margin-top: 15px;
+}
+
+/* News */
+
+.newsArrow{
+    display: flex;
+    justify-content: space-between;
+
+}
+.secondcolumnimage{
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.learnMore{
+    margin: 10px 0;
+}
+ /* Channel Analytics*/
+.SubscribersCount{
+    font-size: 42px;
+}
+
+.cg{
+    color: green;
+}
+
+.divider{
+    background-color:lightgray;
+    height: 1px;
+    margin:20px 0;
+}
+
+.Sum{
+    margin-bottom: 5px;;
+}
+.sumDiv{
+    display: flex;
+    justify-content: space-between;
+    margin:10px 0;
+}
+
+.topvideoLink{
+    display: flex;
+    justify-content: space-between;
+    padding:10px 0;
+
+}
+
+.ellipsisOverflow{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow:ellipsis;
+}
+
+/* Font Awesome Icon*/
+.fasize{
+    font-size: 15px;
+    margin-left: 4px;
+}
+
+.leftarrow{
+    margin-right: 35px;
+}
+
+.uparrow{
+    margin-right: 5px;
+}
+
+/* CommentSection*/
+.commentdiv{
+    margin-bottom: 10px;
+}
+.lastcmt{
+    margin-bottom: 5px;
+}
+.fourthColumn{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 0;
+    
+}
+
+.leftdiv{
+    display: flex;
+    justify-content: space-evenly;
+   
+   
+}
+
+.leftimagediv{
+    width:25px;
+    height: 25px;
+    margin-right: 10px;
+}
+
+.leftimage{
+    width: 100%;
+    height: 100%;
+    border-radius:50%;
+}
+
+.rightimagediv{
+    width: 60px;
+    height: 33px;
+    overflow: hidden;
+    
+}
+
+.rightimage{
+    width: 100%;
+    margin-top: -6px;
+}
+
+.cmt{
+    margin-top: 5px;
+    
+}
+/* Studio */
+.whatsnew{
+    margin-bottom: 30px;
+}
+
+.divider1{
+    background-color:lightgray;
+    height: 1px;
+    margin:20px 0;
+}
+
+/* Recent Subscribers*/
+.recentsubscriber{
+    margin: 15px 0;
+    display: flex;
+}
+.profile{
+    width: 40px;
+    height: 40px;
+    margin-right: 15px;
+}
+
+.profileimage{
+    width: 100%;
+    border-radius: 50%;
+}
